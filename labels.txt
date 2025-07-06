@@ -1,0 +1,6 @@
+crack
+glue_strip
+good
+gray_stroke
+oil
+rough
