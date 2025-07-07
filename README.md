@@ -34,21 +34,3 @@ Dataset Used: Tile dataset from MVTec AD
 
 ## Version Control
 Tools Used: Git, GitHub  
-
-## How to Run
-
-1. Clone the repository:
-git clone https://github.com/HarshV-910/Tiles-Defect-Detection-Project.git
-cd Tiles-Defect-Detection-Project
-
-2. Install dependencies:
-pip install -r requirements.txt
-
-3. Run the Streamlit app:
-streamlit run app.py
-
-## Acknowledgements
-Google Teachable Machine  
-MVTec AD Dataset  
-Streamlit  
-TensorFlow Lite
